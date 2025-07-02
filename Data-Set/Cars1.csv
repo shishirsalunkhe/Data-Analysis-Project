@@ -1,0 +1,39 @@
+Make,Model,ColorID,VehicleType,CostPrice,SpareParts,LaborCost,Registration_Date,Mileage,PurchaseDate
+Bentley,Continental,9,Convertible,62000,2570,1250,5/9/2007,52500,1/1/2012
+Bentley,Continental,1,Convertible,62000,1950,486,5/9/2007,52500,1/1/2012
+Bentley,Continental,9,Convertible,25700,1950,486,9/20/2006,65250,1/1/2012
+Bentley,Turbo R,5,Convertible,25700,2570,486,9/20/2006,65250,1/1/2012
+Jaguar,XK,5,Convertible,37500,400,325,5/9/2007,52500,1/1/2012
+MGB,GT,3,Convertible,8500,250,325,9/20/1974,52500,1/1/2012
+MGB,GT,1,Convertible,4500,250,325,9/20/1976,52500,1/1/2012
+MGB,GT,4,Convertible,4500,250,325,9/20/1974,52500,1/1/2012
+Aston Martin,DB7,1,Convertible,31125,895,1250,4/5/2007,52000,1/1/2012
+Aston Martin,Vantage,4,Convertible,17500,895,1250,4/5/2007,67000,1/1/2012
+Aston Martin,DB7,2,Convertible,17500,895,1250,4/5/2007,52000,1/1/2012
+Aston Martin,DB7,4,Convertible,22500,895,950,4/5/2009,52000,1/1/2012
+Aston Martin,DB9,5,Convertible,17500,895,1250,4/5/2001,52000,1/1/2012
+Bentley,Continental,5,Convertible,67000,2570,1250,5/9/2007,52500,1/1/2012
+Bentley,Continental,1,Convertible,67000,1950,486,5/9/2007,52500,1/1/2012
+Bentley,Continental,9,Convertible,30700,1950,486,9/20/2006,65250,1/1/2012
+Bentley,Turbo R,5,Convertible,30700,2570,486,9/20/2006,65250,1/1/2012
+Jaguar,XK,5,Convertible,42500,400,325,5/9/2007,52500,1/1/2012
+MGB,GT,3,Convertible,13500,250,325,9/20/1974,52500,1/1/2012
+MGB,GT,1,Convertible,9500,250,325,9/20/1976,52500,1/1/2012
+MGB,GT,4,Convertible,9500,250,325,9/20/1974,52500,1/1/2012
+Aston Martin,DB7,1,Convertible,36125,895,1250,4/5/2007,52000,1/1/2012
+Aston Martin,Vantage,4,Convertible,22500,895,1250,4/5/2007,67000,1/1/2012
+Aston Martin,DB7,2,Convertible,22500,895,1250,4/5/2007,52000,1/1/2012
+Aston Martin,DB7,4,Convertible,27500,895,950,4/5/2009,52000,1/1/2012
+Aston Martin,DB9,5,Convertible,22500,895,1250,4/5/2001,52000,1/1/2012
+Bentley,Continental,5,Convertible,67000,2570,1250,5/9/2007,52500,1/1/2012
+Bentley,Continental,1,Convertible,67000,1950,486,5/9/2007,52500,1/1/2012
+Bentley,Continental,9,Convertible,30700,1950,486,9/20/2006,65250,1/1/2012
+Bentley,Continental,5,Convertible,30700,2570,486,9/20/2006,65250,1/1/2012
+Jaguar,XK,5,Convertible,42500,400,325,5/9/2007,52500,1/1/2012
+MGB,GT,3,Convertible,13500,250,325,9/20/1974,52500,1/1/2012
+MGB,GT,1,Convertible,9500,250,325,9/20/1976,52500,1/1/2012
+MGB,GT,4,Convertible,9500,250,325,9/20/1974,52500,1/1/2012
+Aston Martin,DB9,1,Convertible,36125,895,1250,4/5/2007,52000,1/1/2012
+Aston Martin,DB9,4,Convertible,22500,895,1250,4/5/2007,67000,1/1/2012
+Aston Martin,DB9,2,Convertible,22500,895,1250,4/5/2007,52000,1/1/2012
+Aston Martin,DB9,4,Convertible,27500,895,950,4/5/2009,52000,1/1/2012
